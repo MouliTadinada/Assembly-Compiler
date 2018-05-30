@@ -1,0 +1,6 @@
+﻿  mainSource.cpp
+c:\users\sreekar mouli\documents\c programs\assembly compiler\assembly compiler\mystack.h(7): warning C4091: 'typedef ' : ignored on left of 'stack' when no variable is declared
+c:\users\sreekar mouli\documents\c programs\assembly compiler\assembly compiler\objectcodegenerator.h(36): warning C4091: 'typedef ' : ignored on left of 'symbol_table' when no variable is declared
+c:\users\sreekar mouli\documents\c programs\assembly compiler\assembly compiler\objectcodegenerator.h(42): warning C4091: 'typedef ' : ignored on left of 'operations' when no variable is declared
+c:\users\sreekar mouli\documents\c programs\assembly compiler\assembly compiler\objectcodegenerator.h(47): warning C4091: 'typedef ' : ignored on left of 'label_manager' when no variable is declared
+  Assembly Compiler.vcxproj -> C:\Users\Sreekar Mouli\Documents\C Programs\Assembly Compiler\Debug\Assembly Compiler.exe
